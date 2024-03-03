@@ -1,6 +1,7 @@
 # Tokens, Secrets, Keys
 token.pickle
 client_secret.json
+client_secret.json:Zone Identifier
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
