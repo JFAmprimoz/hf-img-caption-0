@@ -88,4 +88,5 @@ dependencies:
   - torchvision
   - jupyter
   - ipywidgets
+  - accelerate
 prefix: /home/jfa/miniforge3/envs/hf-dev-1
