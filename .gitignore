@@ -3,6 +3,9 @@ token.pickle
 client_secret.json
 client_secret.json:Zone.Identifier
 
+# ML specific
+offload/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
