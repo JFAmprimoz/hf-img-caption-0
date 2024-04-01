@@ -1,0 +1,12 @@
+# requirements.in
+# python==3.11.8
+fastapi
+uvicorn
+pillow
+transformers
+accelerate
+python-multipart
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
+
